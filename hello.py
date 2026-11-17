@@ -7,3 +7,6 @@ print("my name is",name)
 
 age = 20
 print("my age is",age)
+
+college="Hinduja college"
+print("my college is",college)
