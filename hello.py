@@ -1,12 +1,11 @@
-print("hello world!")
+name=input("Enter your name: ")
+age=input("Enter your age: ")
+college=input("Enter yoour college name: ")
+colour=input("Enter your favourite colour: ")
+animal=input("Enter your favourite animal: ")
 
-name = "om"
-
-print("welcome to github")
-print("my name is",name)
-
-age = 20
-print("my age is",age)
-
-college="Hinduja college"
-print("my college is",college)
+print("My name is",name)
+print("My age is",age)
+print("My college is",college)
+print("My favourite colour is",colour)
+print("My favourite animal is",animal)
